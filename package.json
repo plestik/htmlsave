@@ -11,7 +11,8 @@
   },
   "files": [
     "dist/htmlsave.js",
-    "dist/htmlsave.min.js"
+    "dist/htmlsave.min.js",
+    "src"
   ],
   "repository": {
     "type": "git",
